@@ -1,2 +1,2 @@
 # MinecraftMatrex
-Проект по повторению здания "Matrex" в Minecraft'е
+Что-то техническое
